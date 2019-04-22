@@ -8,7 +8,7 @@
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
-<background-color:rgba(154, 130, 139, 0.77);>
+<body bgcolor="LightSkyBlue"></body>
 
 <p><strong>About Me</strong></p>
 
