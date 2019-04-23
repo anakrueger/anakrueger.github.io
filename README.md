@@ -5,7 +5,7 @@
 <h2 style="text-align: center;">Welcome to my site!</h2>
 <style>
 body {
-  background-color: #00b33c;
+  background-color: #00b33c ;
 }
 </style>
 <p><strong>About Me</strong></p>
