@@ -10,7 +10,7 @@ body {
 </style>
 <p><strong>About Me</strong></p>
 </body>
-<p>I am a freshman business major hoping to major in Marketing. I love the Greatest Showman and ramen <br /><br /></p>
+<p>I am a freshman business major hoping to major in Marketing. I love the Greatest Showman and ramen. I am from Austin, Texas <br /><br /></p>
 
 
 
