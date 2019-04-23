@@ -5,7 +5,7 @@
 <h2 style="text-align: center;">Welcome to my site!</h2>
 <style>
 body {
-  background: linear-gradient (#93B874, #C9DCB9);
+  background-color: #00b33c;
 }
 </style>
 <p><strong>About Me</strong></p>
