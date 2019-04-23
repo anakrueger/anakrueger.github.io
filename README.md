@@ -1,9 +1,8 @@
 <p>&nbsp;</p>
 <h1 style="text-align: center;">My name is Ana</h1>
 <h2 style="text-align: center;">Welcome to my site!</h2>
-<div class="image-gallery">
 <center><img src="40145511_1444656305679417_4179447325871046656_n.jpg" width="280" height="281" align="BOTTOM"/></center><hr/><img src= "3fe0f068821a9baec3b1991b4c3cee35.gif"  width="28" height="29"/>
-</div>
+<p style=“clear: both;”>
 <style>
 body {
   background-color:#FF69B4 ;
