@@ -2,6 +2,7 @@
 <h1 style="text-align: center;">My name is Ana</h1>
 <h2 style="text-align: center;">Welcome to my site!</h2>
 <center><img src="40145511_1444656305679417_4179447325871046656_n.jpg" width="280" height="281" align="BOTTOM" border= “5”/></center><hr/>
+<img src="40145511_1444656305679417_4179447325871046656_n.jpg" width="280" height="281" align="BOTTOM"/>
 <style>
 body {
   background-color:#FF69B4 ;
