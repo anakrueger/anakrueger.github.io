@@ -4,7 +4,7 @@
 <h1 style="text-align: center;">My name is Pitbull</h1>
 <h2 style="text-align: center;">Welcome to my site!</h2>
 <body {background-color:rbga(154, 130, 139, .77);}>
-p><strong>About Me</strong></p>
+<p><strong>About Me</strong></p>
 
 <p>This is a new paragraph! <br /><br /></p>
 
