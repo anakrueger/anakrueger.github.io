@@ -3,8 +3,10 @@
 <p style="text-align:center;"><a href= "http://slither.io/">Click Here</a> to go to my favorite site</p>
 <h1 style="text-align: center;">My name is Ana</h1>
 <h2 style="text-align: center;">Welcome to my site!</h2>
-</style>
-<background-color:#000080;>
+<style>
+body {
+  background-color:#000080;
+}
 </style>
 <p><strong>About Me</strong></p>
 
