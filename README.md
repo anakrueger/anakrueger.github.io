@@ -1,6 +1,6 @@
 <p>&nbsp;</p>
 <h1 style="text-align: center;">My name is Ana, Welcome to my site!</h1>
-<center><img src="40145511_1444656305679417_4179447325871046656_n.jpg" width="280" height="281" align="BOTTOM"/></center><hr/><center><img src= "373ac218e1a66da6db3597c223e2d675_w200.gif"  width="70" height="71"/>
+<center><img src="40145511_1444656305679417_4179447325871046656_n.jpg" width="299" height="299" align="BOTTOM"/></center><hr/><center><img src= "373ac218e1a66da6db3597c223e2d675_w200.gif"  width="70" height="71"/>
 <style>
 body {
   background-color:#FF69B4 ;
