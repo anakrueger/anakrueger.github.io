@@ -8,7 +8,7 @@ body {
 </style>
 <p><strong>About Me</strong></p>
 <p>I am a freshman business major hoping to major in Marketing. I love the Greatest Showman and ramen. I am from Austin, Texas but I grew up in Anchorage, Alaska. I also have a deep passion for Redbull and coffee that surpassses my love for most things.  <br /><br /></p>
-  <h1 style="text-align: center;">My favorite site!</h1>
+  <h2 style="text-align: center;">My favorite site!</h1>
 <p style="text-align:center;"><a href= "http://slither.io/">Click Here</a> to go to my favorite site</p>
 
 
